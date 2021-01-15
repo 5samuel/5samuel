@@ -13,7 +13,7 @@ JavaScript  basico
 * Administracionn de base de datos basico
 
 ______
-## me puedes conctatar: 
+## me puedes contactar: 
 [@samueljoseangelesreyes](https://www.facebook.com/samueljose.angelesreyes.7) En facebook 
 
 [@samueljoseangelesreyes](https://www.instagram.com/samueljoseangeles/) En instagram
