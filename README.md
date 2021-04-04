@@ -1,7 +1,6 @@
 
 
-Hola amigo👋 , ¡gracias por pasar! Soy Samuel Ángeles, Actualmente soy Estudiante y recientemente me estoy enfocando en mis estudios para mi crecimiento personal. Tengo amplios intereses, pero la algunos de ellos son {Programacion, desarrollador web, adminitrador de base de datos}.Hola amigo👋 , ¡gracias por pasar! Soy Samuel Ángeles, Actualmente soy Estudiante y recientemente me estoy enfocando en mis estudios para mi crecimiento personal. Tengo amplios intereses, pero la algunos de ellos son {Programacion, desarrollador web, adminitrador de base de datos}.
-
+Hola amigo👋 , ¡gracias por pasar! Soy Samuel Ángeles, Actualmente soy Estudiante y recientemente me estoy enfocando en mis estudios para mi crecimiento personal. Tengo amplios intereses, pero la algunos de ellos son {Programacion, desarrollador web, adminitrador de base de datos}.
 _____________
 ## mis conocimientos 
 
